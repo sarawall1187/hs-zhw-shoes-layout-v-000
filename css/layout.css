@@ -34,7 +34,7 @@
 }
 
 .col-2 {
-  margin: 1%;
+  margin: 1% auto 1%;
   float: left;
   width: 30%;
 }
