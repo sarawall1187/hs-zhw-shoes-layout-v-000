@@ -28,15 +28,15 @@
 }
 
 .col-1 {
- margin: 5px;
+ margin: 2%;
  float: left;
- width: 66%;
+ width: 64%;
 }
 
 .col-2 {
-  margin: 5px;
+  margin: 2%;
   float: left;
-  width: 32%;
+  width: 30%;
 }
 
 .card {
