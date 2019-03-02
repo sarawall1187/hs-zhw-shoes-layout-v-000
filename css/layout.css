@@ -32,7 +32,7 @@
  float: left;
  width: 64%;
  height: 100%;
- overflow: auto;
+ overflow: hidden;;
 }
 
 .col-2 {
@@ -40,7 +40,7 @@
   float: left;
   width: 30%;
   height: 100%;
-  overflow: auto;
+  overflow: hidden;;
 }
 
 .card {
