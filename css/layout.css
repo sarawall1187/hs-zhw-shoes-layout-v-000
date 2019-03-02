@@ -26,3 +26,8 @@
 .float-right {
   float: left;
 }
+
+.col-1 {
+ float: left;
+ width: 66%;
+}
