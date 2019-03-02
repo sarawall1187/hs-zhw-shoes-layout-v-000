@@ -31,14 +31,14 @@
  margin: 1%;
  float: left;
  width: 64%;
- height: 100%;
+ overflow: auto;
 }
 
 .col-2 {
   margin: 1%;
   float: left;
   width: 30%;
-  height: 100%;
+overflow: auto;
 }
 
 .card {
