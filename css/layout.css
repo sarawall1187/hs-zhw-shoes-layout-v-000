@@ -34,9 +34,10 @@
 }
 
 .col-2 {
-  margin: 1% auto;
+  margin: 1%;
   float: left;
   width: 30%;
+  height: auto;
 }
 
 .card {
