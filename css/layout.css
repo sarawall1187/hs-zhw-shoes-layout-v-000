@@ -28,13 +28,13 @@
 }
 
 .col-1 {
-  margin: 1%;
+  margin: 5px;
  float: left;
  width: 66%;
 }
 
 .col-2 {
-  margin: 1%;
+  margin: 5px;
   float: left;
   width: 32%;
 }
