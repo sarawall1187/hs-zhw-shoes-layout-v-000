@@ -28,6 +28,7 @@
 }
 
 .col-1 {
+  margin: 1%;
  float: left;
  width: 66%;
 }
